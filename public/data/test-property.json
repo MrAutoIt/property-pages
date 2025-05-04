@@ -1,4 +1,7 @@
 {
   "cash_price": "$3,995",
-  "apn": "123-456-789"
+  "apn": "123-456-789",
+  "down_payment_option_1": "$199",
+  "monthly_payments_option_1": "$99",
+  "number_of_months_option_1": "36"
 }
