@@ -6,5 +6,12 @@
   "number_of_months_option_1": "36",
   "monthly_payments_option_2": "149",
   "down_payment_option_2": "99",
-  "number_of_months_option_2": "24"
+  "number_of_months_option_2": "24",
+  "images": [
+    "/images/test-property/1.png",
+    "/images/test-property/2.png",
+    "/images/test-property/3.png",
+    "/images/test-property/4.png",
+    "/images/test-property/5.png"
+  ]
 }
