@@ -1,1 +1,1 @@
-"{\"test\": \"now it will work\"}" 
+"{\"test\": \"deploy trigger $(date /t) $(time /t)\"}" 
