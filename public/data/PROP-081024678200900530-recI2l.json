@@ -1,0 +1,37 @@
+{
+  "property_id": "PROP-081024678200900530-recI2l",
+  "property_id_static": "PROP-081024678200900530-recI2l",
+  "apn": "08-10-24-6782-0090-0530",
+  "county_name": "Putnam County",
+  "state": "Florida",
+  "size": "0.26",
+  "status": "Active",
+  "due_diligence_report": [
+    {
+      "url": "",
+      "filename": "",
+      "size": ""
+    }
+  ],
+  "google_drive_links": "https://drive.google.com/drive/folders/1suwuaN-jfxkSF9HDjQMTjPJ7WMKUmSF7",
+  "cash_price": "9740",
+  "cash_payment_link": "",
+  "down_payment_option_1": "199",
+  "monthly_payments_option_1": "199",
+  "number_of_months_option_1": "60",
+  "down_payment_option_2": "",
+  "monthly_payments_option_2": "",
+  "number_of_months_option_2": "",
+  "doc_fee": "",
+  "google_maps_link": "",
+  "legal_description": "",
+  "landmodo_ad_url": "",
+  "property_summary": "08-10-24-6782-0090-0530 - Putnam County, Florida – 0.26 acres",
+  "images": [
+    "/images/08-10-24-6782-0090-0530/1.png",
+    "/images/08-10-24-6782-0090-0530/2.png",
+    "/images/08-10-24-6782-0090-0530/3.png",
+    "/images/08-10-24-6782-0090-0530/4.png",
+    "/images/08-10-24-6782-0090-0530/5.png"
+  ]
+}
