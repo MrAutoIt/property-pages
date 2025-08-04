@@ -1,0 +1,14 @@
+{
+  "zoning_code": "Residential Single Family",
+  "what_can_be_built": "Single Family Home",
+  "build_time_limit": "No time limit",
+  "camping_allowed": "Per Town, Not allowed",
+  "mobile_homes_allowed": "Per county, Not allowed",
+  "tiny_homes_allowed": "Per county, Yes",
+  "rvs_allowed": "Per Town, Not allowed",
+  "water_access": "Would require water well",
+  "septic_access": "Would require septic system",
+  "electric_info": "Contact FPL 800-226-3545",
+  "gas_info": "Contact Suburban Propane, Ferrellgas, etc.",
+  "waste_info": "Waste Management at 941-629-1106"
+}
