@@ -16,7 +16,7 @@
   "size": "0.26",
   "status": "Active",
   "cash_price": "9740",
-  "cash_payment_link": "test.com",
+  "cash_payment_link": "https://test1.com",
   "down_payment_option_1": "199",
   "monthly_payments_option_1": "199",
   "number_of_months_option_1": "60",
@@ -33,5 +33,4 @@
     "/images/08-10-24-6782-0090-0530/4.png",
     "/images/08-10-24-6782-0090-0530/5.png"
   ]
-
 }
