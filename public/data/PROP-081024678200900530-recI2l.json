@@ -4,16 +4,17 @@
   "apn": "08-10-24-6782-0090-0530",
   "county_name": "Putnam County",
   "state": "Florida",
+  "address": "",
+  "subdivision": "",
+  "terrain_type": "",
+  "lot_number": "",
+  "gps_center": "",
+  "gps_sw": "",
+  "gps_nw": "",
+  "gps_ne": "",
+  "gps_se": "",
   "size": "0.26",
   "status": "Active",
-  "due_diligence_report": [
-    {
-      "url": "",
-      "filename": "",
-      "size": ""
-    }
-  ],
-  "google_drive_links": "https://drive.google.com/drive/folders/1suwuaN-jfxkSF9HDjQMTjPJ7WMKUmSF7",
   "cash_price": "9740",
   "cash_payment_link": "",
   "down_payment_option_1": "199",
@@ -25,13 +26,11 @@
   "doc_fee": "",
   "google_maps_link": "",
   "legal_description": "",
-  "landmodo_ad_url": "",
-  "property_summary": "08-10-24-6782-0090-0530 - Putnam County, Florida – 0.26 acres",
   "images": [
-    "/images/PROP-081024678200900530-recI2l/1.png",
-    "/images/PROP-081024678200900530-recI2l/2.png",
-    "/images/PROP-081024678200900530-recI2l/3.png",
-    "/images/PROP-081024678200900530-recI2l/4.png",
-    "/images/PROP-081024678200900530-recI2l/5.png"
+    "/images/08-10-24-6782-0090-0530/1.png",
+    "/images/08-10-24-6782-0090-0530/2.png",
+    "/images/08-10-24-6782-0090-0530/3.png",
+    "/images/08-10-24-6782-0090-0530/4.png",
+    "/images/08-10-24-6782-0090-0530/5.png"
   ]
 }
